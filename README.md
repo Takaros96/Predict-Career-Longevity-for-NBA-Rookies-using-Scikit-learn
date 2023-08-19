@@ -4,4 +4,4 @@ In this project
 
 2)Binary classification was implemented using logistic regression
 
-3) I adjusted the discrimination threshold to increase or decrease the sensitivity to false positives or to other application factors 
+3)I adjusted the discrimination threshold to increase or decrease the sensitivity to false positives or to other application factors 
